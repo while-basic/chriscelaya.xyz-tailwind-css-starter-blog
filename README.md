@@ -273,8 +273,6 @@ See [Next.js on Netlify](https://docs.netlify.com/integrations/frameworks/next-j
 
 ## Support
 
-Using the template? Support this effort by giving a star on GitHub, sharing your own blog and giving a shoutout on Twitter or becoming a project [sponsor](https://github.com/sponsors/timlrx).
+Using the template? Support this effort by giving a star on GitHub, sharing your own blog and giving a shoutout on Twitter. Licence
 
-## Licence
-
-[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/main/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+[MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/main/LICENSE) © [Christopher Celaya](https://chriscelaya.xyz)
